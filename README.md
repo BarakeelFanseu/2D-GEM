@@ -1,5 +1,5 @@
 # 2D-GEM
-Exact 3D shape matching via 2D-graph convolution (Neurips2022). url=
+Exact 3D shape matching via 2D-graph convolution (Accepted at Neurips2022). url=
 
 # Guide
 Unzip Datasets_only.zip,
